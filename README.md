@@ -37,7 +37,7 @@ You can also use ```npm run start```
 Once the server start,  browse ```http://lñocalhost:8085/```
 
 ## TODO
-- Delete favorites
+- Add a button to delete favorites
 - More results (results pagination)
 - InApp music player
 - Implement GraphQL instead of REST
@@ -45,7 +45,7 @@ Once the server start,  browse ```http://lñocalhost:8085/```
 - Make a nide header
 - Convert Stylus file to SASS and bundle in webpack
 - Unit testing
-- Code refactor (It's a little messy right now, React components must be in separated files).
+- Code refactor (It's a little messy right now, and React components must be in separated files).
 - Render views in backend with react
 - Make it responsive
 - Implement a service worker and add a manifest
