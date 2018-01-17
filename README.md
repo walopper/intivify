@@ -32,8 +32,9 @@ Enter main folder and run
 ```
 $ yarn start
 ```
-
 You can also use ```npm run start```
+
+Once the server start,  browse ```http://lñocalhost:8085/```
 
 ## TODO
 - Delete favorites
