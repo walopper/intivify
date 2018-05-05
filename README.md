@@ -65,4 +65,4 @@ Request in the service are done with Jquery ajax method and return the promise t
 The backend uses node-fetch, via an external service (spotifyGateway.js) to query spotify api. This is a class with all method needed for the app. Some of this methos, map the spotify responses to remove unused properties.
 The server uses ExpressJS yo serve the responses to the app and serve static conttent to the app, like styles and bundle.js.
 
-Font-icons were bundle with icomoon app. Icons were download from flaticon.com as svg and imported in icomoon app.
+Font-icons were bundle with icomoon app. Icons were download from flaticon.com as svg and imported in icomoon app. 
